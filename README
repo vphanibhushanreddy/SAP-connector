@@ -1,0 +1,14 @@
+A simple SAP connector for connecting with SAP R3 systems.
+
+Introduction:
+-----------------
+
+Following is the directory structure of project:
+
+Parent
+  -
+  - javadoc
+  - src
+  - lib
+  - conf
+  
